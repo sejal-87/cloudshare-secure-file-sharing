@@ -27,7 +27,7 @@ A secure, end-to-end encrypted cloud file-sharing web application built with **P
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/sejal-87/cloudshare-secure-file-sharing
    cd cloudshare-secure-file-sharing
    ```
 
